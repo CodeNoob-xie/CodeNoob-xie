@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+### - 🔭 I’m currently working on Partial differential equation detection/website development/CNN- network 
+
+### - 📫 How to reach me: xiewencong338@gmail.com/ xie338@purdue.edu
+
+
 <!--
 **CodeNoob-xie/CodeNoob-xie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
